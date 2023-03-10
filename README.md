@@ -32,7 +32,7 @@ The models obtained after training were used to play the same level for 100 epis
 #### Discounted returns vs Episodes
 <p align='center'>
     <img src="/Analysis/Plots/retvsep_test.png" alt="drawing" width="600"/>
-</p>]
+</p>
 
 #### Number of steps/episode vs Episodes
 <p align='center'>
