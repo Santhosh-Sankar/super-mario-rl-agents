@@ -16,7 +16,7 @@ The following plots highlight the discounted and undiscounted rewards obtained b
 
 #### Discounted returns vs Episodes
 <p align='center'>
-    <img src="/Analysis/lots/disc_returns.png" alt="drawing" width="600"/>
+    <img src="/Analysis/Plots/disc_returns.png" alt="drawing" width="600"/>
 </p>
 
 
